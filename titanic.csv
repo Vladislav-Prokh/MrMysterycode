@@ -1,5 +1,5 @@
 "Passenger Class";"Name";"Sex";"Age";"No of Siblings or Spouses on Board";"No of Parents or Children on Board";"Ticket Number";"Passenger Fare";"Cabin";"Port of Embarkation";"Life Boat";"Survived"
-"First";"";"Female";29.0;0.0;0.0;"24160";211.3375;"B5";"Southampton";"2";"Yes"
+"First";;"Female";29.0;0.0;0.0;"24160";211.3375;"B5";"Southampton";"2";"Yes"
 "First";"Allison, Master. Hudson Trevor";"Male";0.9167;1.0;2.0;"113781";151.55;"C22 C26";"Southampton";"11";"Yes"
 "First";"Allison, Miss. Helen Loraine";"Female";2.0;1.0;2.0;"113781";151.55;"C22 C26";"Southampton";;"No"
 "First";"Allison, Mr. Hudson Joshua Creighton";"Male";30.0;1.0;2.0;"113781";151.55;"C22 C26";"Southampton";;"No"
